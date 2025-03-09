@@ -6,7 +6,8 @@
 
 ## 🚀 About Me
 
-Welcome to my data-driven universe! I'm Sandeep Ghotra, a dedicated Data Analyst with a passion for leveraging analytics, cloud technologies, and cutting-edge tools to solve complex business challenges. I thrive on designing scalable ETL pipelines, building interactive dashboards, and uncovering actionable insights that guide strategic decision-making.
+Welcome to my data-driven universe! 
+I'm Sandeep Ghotra, a dedicated Data Analyst with a passion for leveraging analytics, cloud technologies, and cutting-edge tools to solve complex business challenges. I thrive on designing scalable ETL pipelines, building interactive dashboards, and uncovering actionable insights that guide strategic decision-making.
 
 + 🔭 Open to opportunities in Data Analytics, Data Engineering, and Business Intelligence.
 + 🌱 Eager to adopt AI/ML tools and frameworks for deeper exploratory analysis.
@@ -42,7 +43,7 @@ MIT World Peace University, Pune, India
  
 # Professional Experience
 
-## Cloud Resources LLC, Texas
+### Cloud Resources LLC, Texas
 
 ### Data Analyst | Nov 2023 – May 2024
 
@@ -51,7 +52,7 @@ MIT World Peace University, Pune, India
 - Conducted A/B testing for patient engagement strategies, raising overall satisfaction scores by 15%.
 - Automated data ingestion pipelines (Python + SQL) into Tableau, ensuring real-time insights and a 20% reduction in manual reporting overhead.
 
-## Kaalpanik Technologies, India
+### Kaalpanik Technologies, India
 
 ###  Data/BI Analyst | Oct 2017 – July 2019
 
@@ -61,7 +62,7 @@ MIT World Peace University, Pune, India
 - Influenced $100,000 in purchasing decisions through predictive analytics and demand forecasting.
 
 
-## LogiQuad Solutions, India
+### LogiQuad Solutions, India
 
 ### Software Engineer | Feb 2017 – Sept 2017
 
@@ -83,12 +84,12 @@ MIT World Peace University, Pune, India
 - Predicted demand fluctuations, cutting overstock by 20%.
 - Leveraged Python scripts and advanced DAX in Power BI to enhance procurement trends analysis.
 
-## Fraud Detection Pipeline
+### Fraud Detection Pipeline
 
 -  Architected a credit card fraud detection system using Python’s ML libraries, achieving 92% accuracy with optimized feature selection.
 -  Real-time alerts halved fraudulent attempts within the pilot environment.
 
-## Financial Analytics & Dashboards
+### Financial Analytics & Dashboards
 
 - Devised dashboards in Tableau to monitor budgets and forecasting for enterprise-level projects, improving budget compliance by 15%.
 - Tech Stack: AWS S3 (data lake) + Redshift + Python for data wrangling.
