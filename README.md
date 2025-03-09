@@ -43,28 +43,21 @@ MIT World Peace University, Pune, India
  
 # Professional Experience
 
-### Cloud Resources LLC, Texas
-
-## Data Analyst | Nov 2023 – May 2024
+## Data Analyst | Cloud Resources LLC, Texas | Nov 2023 – May 2024
 
 - Developed interactive Power BI dashboards to analyze large healthcare datasets (15M+ records), reducing data processing times by 30%.
 - Created 25+ SQL stored procedures for ETL workflows, improving efficiency and consistency in analytics reporting.
 - Conducted A/B testing for patient engagement strategies, raising overall satisfaction scores by 15%.
 - Automated data ingestion pipelines (Python + SQL) into Tableau, ensuring real-time insights and a 20% reduction in manual reporting overhead.
 
-### Kaalpanik Technologies, India
-
-##  Data/BI Analyst | Oct 2017 – July 2019
+##  Data/BI Analyst | Kaalpanik Technologies, India | Oct 2017 – July 2019
 
 - Developed SQL-based data models, improving data-driven reporting efficiency for operations and inventory management.
 - Designed and implemented ETL pipelines, reducing data processing time by 20% and ensuring faster insights.
 - Optimized business metrics reporting by integrating AWS RDS and Power BI, reducing manual workload by 40%.
 - Influenced $100,000 in purchasing decisions through predictive analytics and demand forecasting.
 
-
-### LogiQuad Solutions, India
-
-## Software Engineer | Feb 2017 – Sept 2017
+## Software Engineer | LogiQuad Solutions, India | Feb 2017 – Sept 2017
 
 - Led Salesforce development, implementing Apex, Visualforce, and Talend-based integrations to improve data migration.
 - Conducted performance tuning and troubleshooting of enterprise applications, reducing system latency by 30%.
