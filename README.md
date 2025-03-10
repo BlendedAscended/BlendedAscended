@@ -82,7 +82,7 @@ MIT World Peace University, Pune, India
 - Analyzed three decades of video game sales data to identify key success factors, regional user profiles, and industry trends.
 - Leveraged data visualization and statistical insights to optimize marketing strategies, predict game popularity, and guide business decisions.
 
-### Healthcare Operations Management System
+### [Healthcare Operations Management System](https://qbs.com/)
 
 - Streamlined healthcare workflows for QBS (U.S. & Canada), automating data collection and slashing manual processes by 40%.
 - Created an intuitive SQL + Excel reporting framework and integrated a user-friendly front-end for real-time KPI monitoring.
