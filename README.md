@@ -87,6 +87,8 @@ MIT World Peace University, Pune, India
 - Devised dashboards in Tableau to monitor budgets and forecasting for enterprise-level projects, improving budget compliance by 15%.
 - Tech Stack: AWS S3 (data lake) + Redshift + Python for data wrangling.
 
+ [![Fed Funds Rate Plot](https://github.com/BlendedAscended/Sentiment-Analysis-for-Federal-Bank-Statements)]
+
 ## 🛠️ Certifications
 
 - **Microsoft Certified: Power BI Data Analyst Associate | March 2025** 
