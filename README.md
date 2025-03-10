@@ -67,6 +67,21 @@ MIT World Peace University, Pune, India
 
 ## 🚀 Featured Projects
 
+### [Sentiment Analysis for Federal Open Market Statements](https://github.com/BlendedAscended/Sentiment-Analysis-for-Federal-Bank-Statements)
+
+- Developed an automated sentiment analysis system for FOMC statements using NLP, reducing analysis time from hours to seconds.
+- Integrated FX market data to correlate sentiment trends with economic indicators, enhancing financial market insights.
+
+### [Customer Churn Prediction](https://github.com/BlendedAscended/Customer-Churn-Prediction-using-ML)
+
+- Developed a machine learning model to predict customer churn in telecommunications, improving retention strategies with data-driven insights.
+- Implemented advanced feature engineering and balanced dataset techniques to enhance predictive accuracy, identifying key factors influencing    customer churn.
+
+### [Video Game Market Analysis](https://github.com/BlendedAscended/Video-Games-Market-Analysis)
+
+- Analyzed three decades of video game sales data to identify key success factors, regional user profiles, and industry trends.
+- Leveraged data visualization and statistical insights to optimize marketing strategies, predict game popularity, and guide business decisions.
+
 ### Healthcare Operations Management System
 
 - Streamlined healthcare workflows for QBS (U.S. & Canada), automating data collection and slashing manual processes by 40%.
@@ -87,7 +102,6 @@ MIT World Peace University, Pune, India
 - Devised dashboards in Tableau to monitor budgets and forecasting for enterprise-level projects, improving budget compliance by 15%.
 - Tech Stack: AWS S3 (data lake) + Redshift + Python for data wrangling.
 
- [![Fed Funds Rate Plot](https://github.com/BlendedAscended/Sentiment-Analysis-for-Federal-Bank-Statements)]
 
 ## 🛠️ Certifications
 
