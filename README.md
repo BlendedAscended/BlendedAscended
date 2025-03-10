@@ -17,11 +17,11 @@ I'm Sandeep Ghotra, a dedicated Data Analyst with a passion for leveraging analy
 
 - 🎓  Master of Science in Technology Management
 Lindsey Wilson College, Columbia, Kentucky
-(Graduated: [May/2025])
+(Graduated: May/2025)
 
 - 🎓 Bachelor of Engineering in Information Technology
 MIT World Peace University, Pune, India
-(Graduated: [November/2016)
+(Graduated: November/2016)
  
 
 ## 🛠️ Skills
