@@ -66,7 +66,12 @@ MIT World Peace University, Pune, India
 - Optimized ETL performance by 30% via caching strategies and indexing, reducing operational latency.
 
 ## 🚀 Featured Projects
+CMS Part D Prescriber Analysis for Negotiation Support
+### [CMS Part D Prescriber Analysis for Negotiation Support](https://github.com/BlendedAscended/cms-prescriber-analysis)
 
+- Analyzed CMS Part D Prescriber data (Maryland, 2022) using Python (Pandas) to identify negotiation leverage points and cost-saving opportunities.
+- Developed [Tableau](https://public.tableau.com/views/NegotiationSupportLenalidomideGenericOpportunityvs_Revlimid/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) dashboards visualizing brand/generic cost differences (e.g., Revlimid®/Lenalidomide), market share, and prescriber patterns to provide actionable insights for pharmaceutical rebate strategies.
+  
 ### [Sentiment Analysis for Federal Open Market Statements](https://github.com/BlendedAscended/Sentiment-Analysis-for-Federal-Bank-Statements)
 
 - Developed an automated sentiment analysis system for FOMC statements using NLP, reducing analysis time from hours to seconds.
