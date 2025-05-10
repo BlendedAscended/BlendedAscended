@@ -66,6 +66,20 @@ MIT World Peace University, Pune, India
 - Optimized ETL performance by 30% via caching strategies and indexing, reducing operational latency.
 
 ## 🚀 Featured Projects
+
+Healthcare Access & Telehealth State Score Analysis
+### [Healthcare Access & Telehealth State Score Analysis](https://github.com/BlendedAscended/medicare-telehealth-gap-analysis)
+
+- Built a state-level telehealth vulnerability index using SQL and public CMS datasets (SDOH, Medicare Enrollment, NPPES, Provider & Opioid data).
+
+- Computed key healthcare accessibility metrics: tele_index, pcp_per_10k, opioid_pct, broadband gap, and vehicle availability.
+
+- Cleaned and transformed messy public datasets using DuckDB, designed reproducible pipelines with integrity checks, and ensured accurate one-row-per-state results.
+
+- Created interactive [Tableau](https://public.tableau.com/views/Telehealth-Dashboardexcl_labelsinterpretaions/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  dashboards visualizing rural healthcare access risks and policy impacts (e.g., 2025 Medicare telehealth cliff).
+
+-This project highlights data-backed storytelling for policy and healthcare stakeholders, integrating SQL, geographic data, and visual insight.
+
 CMS Part D Prescriber Analysis for Negotiation Support
 ### [CMS Part D Prescriber Analysis for Negotiation Support](https://github.com/BlendedAscended/cms-prescriber-analysis)
 
