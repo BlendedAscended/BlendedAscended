@@ -80,7 +80,6 @@ Healthcare Access & Telehealth State Score Analysis
 
 -This project highlights data-backed storytelling for policy and healthcare stakeholders, integrating SQL, geographic data, and visual insight.
 
-CMS Part D Prescriber Analysis for Negotiation Support
 ### [CMS Part D Prescriber Analysis for Negotiation Support](https://github.com/BlendedAscended/cms-prescriber-analysis)
 
 - Analyzed CMS Part D Prescriber data (Maryland, 2022) using Python (Pandas) to identify negotiation leverage points and cost-saving opportunities.
